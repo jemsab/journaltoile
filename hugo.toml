@@ -1,0 +1,4 @@
+baseURL = 'https://www.example.com'
+languageCode = 'fr-fr'
+title = 'Viteuf'
+theme = 'terminal'
