@@ -1,4 +1,4 @@
-baseURL = 'https://www.example.com'
+baseURL = '/'
 languageCode = 'fr-fr'
 title = 'Viteuf'
 theme = 'terminal'
